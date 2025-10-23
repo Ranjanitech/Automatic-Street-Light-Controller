@@ -57,7 +57,6 @@ This process runs continuously without any manual control.
 | **Power Supply** | 5V / 3.3V (as per board) |
 
 
-
 ---
 
 ## 🖥️ Steps to Run the Project
@@ -89,6 +88,7 @@ This process runs continuously without any manual control.
 - 🌡️ Addition of motion or temperature sensors for adaptive control.
 
 ---
+
 
 
 
