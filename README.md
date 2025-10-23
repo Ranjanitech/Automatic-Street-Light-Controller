@@ -69,7 +69,3 @@ This process runs continuously without any manual control.
 - 📱 Mobile or web-based control interface.  
 - ☁️ Cloud data storage and analytics for light usage patterns.  
 - 🌡️ Addition of motion or temperature sensors for adaptive control
-
-
-```markdown
-![Circuit Diagram](path_to_your_image.png)
